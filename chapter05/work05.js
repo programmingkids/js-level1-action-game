@@ -1,4 +1,7 @@
-var lastName = '佐藤'
-var firstName = '花子';
-var fullName = lastName + " " + firstName;
-console.log( fullName );
+var a = 10;
+
+a++;
+console.log( a );
+
+a--;
+console.log( a );

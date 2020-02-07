@@ -1,16 +1,7 @@
-var a = 10;
-
-a += 2;
+var a = 1;
+a = a + 1;
 console.log( a );
 
-a -= 2;
-console.log( a );
-
-a *= 2;
-console.log( a );
-
-a /= 2;
-console.log( a );
-
-a %= 2;
-console.log( a );
+var b = 5;
+b = b + 2;
+console.log( b );

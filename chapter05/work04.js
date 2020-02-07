@@ -1,7 +1,7 @@
-var a = 10;
-
-a++;
+var a = 1;
+a += 1;
 console.log( a );
 
-a--;
-console.log( a );
+var b = 5;
+b -= 2;
+console.log( b );

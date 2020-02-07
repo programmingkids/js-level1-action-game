@@ -1,3 +1,5 @@
-var x = 10;
-var y = '20';
-console.log(x + y);
+var a = '11';
+var b = 10;
+
+var c = a + b;
+console.log( c );
