@@ -1,4 +1,4 @@
-var score = 90;
+var score = 
 
 if( score == 100 ) {
     console.log( "素晴らしいです" );
