@@ -1,4 +1,4 @@
-# JavaScript レベル1
+# JavaScript レベル1 アクションゲーム
 ## 対象
 未経験者
 
