@@ -266,7 +266,7 @@ mainScene.gameOver = function() {
     var gameover = this.add.image(cameraPositionX, cameraPositionY, 'gameover');
     gameover.setDisplaySize(500,400);
     
-    // クリックするおtスタート画面に移動
+    // クリックするとスタート画面に移動
     this.input.keyboard.on('keydown', function(event) {
         this.scene.start('startScene');
     }, this);
